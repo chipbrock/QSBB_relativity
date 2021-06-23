@@ -1,0 +1,14 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+format: jb-book
+root: intro
+defaults:
+  numbered: True
+chapters:
+- file: the_planet
+- file: foundations/L-051_motion_g_galileo2
+- file: relativity/Special Relativity_1_1
+- file: randomly/content
+- file: randomly/mymarkdownfile
+- file: randomly/notebooks
